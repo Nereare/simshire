@@ -18,7 +18,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Pull request.
 - ReadMe file.
 - Changelog file.
-- ...
 
 [Unreleased]: https://github.com/Nereare/simshire/compare/v0.1.0...HEAD
 <!-- [0.0.2]: https://github.com/Nereare/simshire/compare/v0.1.0...v0.2.0 -->
