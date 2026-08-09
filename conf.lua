@@ -4,7 +4,7 @@ function love.conf(t)
 
   -- Window properties
   t.window.title = "SimShire"
-  t.window.icon = "icon.png"
+  t.window.icon = "assets_temp/icon.png"
   -- > Size
   t.window.width = 512 + 400
   t.window.height = 512
