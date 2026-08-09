@@ -1,0 +1,9 @@
+# LÖVE packages
+*.love
+
+# Meta folders
+bin/
+save/
+tools/
+# Placeholder media resources
+assets_temp/
